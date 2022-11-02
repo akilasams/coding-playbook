@@ -4,7 +4,7 @@ All the knowledge I find in my development journey
 
 ## TypeScript
 
-- [Mapped Types](doc/typescript/mapped-types.md)
+- [Types](doc/typescript/ts-types.md)
 
 ## Java
 
