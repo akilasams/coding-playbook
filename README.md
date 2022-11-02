@@ -1,6 +1,6 @@
-# coding-playbook
+# Engineering Playbook
 
-All the knowledge I find in my development journey
+All the knowledge I find in my software engineering journey
 
 ## TypeScript
 
