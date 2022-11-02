@@ -4,7 +4,7 @@
 
 - Keywords like `Readonly<...>` are called mapped types.
 
-```js
+```ts
 type Todo = {
   readonly id: number
   readonly text: string
@@ -14,7 +14,7 @@ type Todo = {
 
 The above code is equivalent to the following version
 
-```js
+```ts
 type Todo = Readonly<{
   id: number
   text: string
