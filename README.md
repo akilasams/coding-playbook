@@ -10,4 +10,12 @@ All the knowledge I find in my development journey
 
 ## React
 
+## React Native
+
 ## Node
+
+## AWS
+
+## Jenkins
+
+## Terraform
