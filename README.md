@@ -10,7 +10,16 @@ All the knowledge I find in my software engineering journey
 ## TypeScript
 
 - [Intro](doc/typescript/intro.md)
-- [Types](doc/typescript/ts-types.md)
+
+#### Types
+
+- [The Primitives](doc/typescript/ts-types/01-the-primitives.md)
+- [Defining Types](doc/typescript/ts-types/02-defining-types.md)
+- [Optional Types](doc/typescript/ts-types/03-optional-types.md)
+- [Composing Types](doc/typescript/ts-types/04-composing-types.md)
+- [Structural Type System](doc/typescript/ts-types/05-structural-type-system.md)
+- [Intersection Types and Union Types](doc/typescript/ts-types/06-intersection-and-union-types.md)
+- [Mapped Types](doc/typescript/ts-types/07-mapped-types.md)
 
 ## Java
 
