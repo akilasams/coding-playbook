@@ -6,6 +6,7 @@ All the knowledge I find in my software engineering journey
 
 - [My Notes](doc/my-notes/my-notes.md)
 - [Learnings from :Different](doc/my-notes/different.md)
+- [Logging in JS](doc/my-notes/logging-in-js.md)
 
 ## TypeScript
 
