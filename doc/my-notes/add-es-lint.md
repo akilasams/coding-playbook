@@ -2,15 +2,21 @@
 
 - Install neccessary packages as dev dependencies
 
-  ```npm install -D eslint eslint-plugin-react eslint-plugin-react-hooks```
+  ```js
+  npm install -D eslint eslint-plugin-react eslint-plugin-react-hooks
+  ```
 
 - Additional packages when using typescript
 
-  ```npm install -D @typescript-eslint/parser @typescript-eslint/eslint-plugin```
+  ```js
+  npm install -D @typescript-eslint/parser @typescript-eslint/eslint-plugin
+  ```
 
 - Additional plugins
 
-  ```npm install -D eslint-plugin-import eslint-plugin-jsx-a11y```
+  ```js
+  npm install -D eslint-plugin-import eslint-plugin-jsx-a11y
+  ```
 
 - Add ESLint extension to VSCode
 
