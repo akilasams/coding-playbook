@@ -38,5 +38,5 @@ declare const backpack: Backpack<string>;
 const object = backpack.get();
 
 // Since the backpack variable is a string, you can't pass a number to the add function.
-backpack.add(23); // Argument of type 'number' is not assignable to parameter of type 'string'.
+backpack.add(23); // ERROR : Argument of type 'number' is not assignable to parameter of type 'string'.
 ```

@@ -5,22 +5,17 @@ All the knowledge I find in my software engineering journey
 ## Notes
 
 - [My Notes](doc/my-notes/my-notes.md)
+- [HTTP](doc/my-notes/http.md)
 - [Learnings from :Different](doc/my-notes/different.md)
 - [Logging in JS](doc/my-notes/logging-in-js.md)
+- [Add ESLint to Your Project](doc/my-notes/add-es-lint.md)
+- [Add Prettier to Your Project](doc/my-notes/add-prettier.md)
+- [Jamstack](doc/my-notes/jamstack.md)
 
 ## TypeScript
 
 - [Intro](doc/typescript/intro.md)
-
-#### Types
-
-- [The Primitives](doc/typescript/ts-types/01-the-primitives.md)
-- [Defining Types](doc/typescript/ts-types/02-defining-types.md)
-- [Optional Types](doc/typescript/ts-types/03-optional-types.md)
-- [Composing Types](doc/typescript/ts-types/04-composing-types.md)
-- [Structural Type System](doc/typescript/ts-types/05-structural-type-system.md)
-- [Intersection Types and Union Types](doc/typescript/ts-types/06-intersection-and-union-types.md)
-- [Mapped Types](doc/typescript/ts-types/07-mapped-types.md)
+- [Types](doc/typescript/ts-types/index.md)
 
 ## Java
 
@@ -28,6 +23,7 @@ All the knowledge I find in my software engineering journey
 
 - [101](doc/react/101.md)
 - [Getting Started](doc/react/getting-started.md)
+- [React TypeScript Webpack - Setup From Scratch](doc/react/react-typescript-webpack-setup-from-scratch.md)
 
 ## React Native
 
