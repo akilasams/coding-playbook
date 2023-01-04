@@ -27,7 +27,7 @@
 
     ```js
     extends: [
-    'prettier',
+    'prettier/@typescript-eslint',
     'plugin:prettier/recommended'
     ]
     ```
