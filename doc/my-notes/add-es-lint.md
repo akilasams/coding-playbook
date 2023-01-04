@@ -3,7 +3,7 @@
 - Install neccessary packages as dev dependencies
 
   ```js
-  npm install -D eslint eslint-plugin-react eslint-plugin-react-hooks
+  npm install -D eslint eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-eslint-comments
   ```
 
 - Additional packages when using typescript
