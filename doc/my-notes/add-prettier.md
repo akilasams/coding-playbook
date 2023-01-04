@@ -4,7 +4,9 @@
 
 - Install neccessary packages as dev dependencies
 
-  - `npm install -D prettier eslint-config-prettier eslint-plugin-prettier`
+  ```js
+  npm install -D prettier eslint-config-prettier eslint-plugin-prettier
+  ```
 
 - Add .prettierrc.js config file
 
@@ -32,4 +34,6 @@
 
 - Add format script to package.json
 
-  - `"format": "prettier --write \"./src/**/*.{js,jsx,ts,tsx,json,css,scss,md}\""`
+  ```js
+  "format": "prettier --write \"./src/**/*.{js,jsx,ts,tsx,json,css,scss,md}\""
+  ```
